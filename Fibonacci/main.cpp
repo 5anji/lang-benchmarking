@@ -9,7 +9,7 @@ uint64_t fibonacci(uint64_t n) {
 }
 
 int main() {
-  uint64_t const n = 30; // Change this to the desired position in the Fibonacci sequence
+  uint64_t const n = 40; // Change this to the desired position in the Fibonacci sequence
   std::cout << "Fibonacci(" << n << ") = " << fibonacci(n) << std::endl;
   return 0;
 }

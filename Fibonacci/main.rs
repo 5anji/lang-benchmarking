@@ -6,6 +6,6 @@ fn fibonacci(n: u64) -> u64 {
 }
 
 fn main() {
-    let n = 30; // Change this to the desired position in the Fibonacci sequence
+    let n = 40; // Change this to the desired position in the Fibonacci sequence
     println!("Fibonacci({}) = {}", n, fibonacci(n));
 }
